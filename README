@@ -1,0 +1,11 @@
+To use the transcription program, first open powershell (Windows) or 
+terminal (Mac OSX). Execute the script by typing the following:
+
+python genometranscription.py filename
+
+where "filename" references a text file in ATCG format with no spaces.
+
+
+An example file has been attached, and can be referenced by:
+
+python genometranscription.py testsequence.txt

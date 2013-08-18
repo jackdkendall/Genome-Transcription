@@ -1,5 +1,6 @@
 To use the transcription program, first open powershell (Windows) or 
-terminal (Mac OSX). Execute the script by typing the following:
+terminal (Mac OSX). Execute the script by entering the directory in which
+you downloaded the files, and typing the following:
 
 python genometranscription.py filename
 
